@@ -1,4 +1,4 @@
-// App.tsx
+// App.jsx
 import React from "react";
 import {
   Chat,
